@@ -1,0 +1,14 @@
+.container{
+    max-width: 33rem;
+    max-height: 41rem;
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    position: relative;
+    border-radius: 1.25rem;
+    
+}
+
+.component-wrapper{
+    padding: 4rem 2.5rem 0 2.5rem;
+}

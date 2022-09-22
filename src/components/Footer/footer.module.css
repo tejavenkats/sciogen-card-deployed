@@ -1,0 +1,18 @@
+.wrapper{
+    box-shadow: 0px -1px 20px -15px black;
+    padding: 0.5rem 3rem;
+}
+
+.policy-text{
+    width: 100%;
+    text-align: center;
+    padding: 1rem 0;
+    color: gray;
+    font-size: 10px;
+}
+
+.privacy-links{
+    color: gray;
+    text-decoration: underline;
+    font-size: 10px;
+}

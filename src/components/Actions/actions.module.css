@@ -1,0 +1,40 @@
+.actions-container{
+    display: flex;
+    justify-content: space-between;
+    padding: 1.5rem 0;
+}
+
+
+.signed-in-container{
+    display: flex;
+    align-items: center;
+}
+
+.checkbox{
+    margin-right: 0.5rem;
+}
+
+.signed-in-text{
+    font-weight: 400;
+    font-size: 11px;
+    color: #333333;
+}
+
+.sign-in-btn{
+    outline: none;
+    border: none;
+    padding: 0.8rem 2rem;
+    background: #4255BD;
+    color: white;
+    border-radius: 10rem;
+    font-weight: 600;
+    font-size: 14px;
+}
+
+@media (min-width: 520px) {
+    .actions-container{
+        display: flex;
+        justify-content: space-evenly;
+        padding: 1.5rem 0;
+    }
+}
