@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/sciogen-card-deployed/static/css/main.00f73abe.css",
+    "main.js": "/sciogen-card-deployed/static/js/main.dc0f7447.js",
+    "static/js/787.05b526e2.chunk.js": "/sciogen-card-deployed/static/js/787.05b526e2.chunk.js",
+    "static/media/eyeIcon.svg": "/sciogen-card-deployed/static/media/eyeIcon.360c87b5514f7317a981367f33468779.svg",
+    "index.html": "/sciogen-card-deployed/index.html",
+    "static/media/backIcon.svg": "/sciogen-card-deployed/static/media/backIcon.f0274054429932edbe551449adf2aca5.svg",
+    "main.00f73abe.css.map": "/sciogen-card-deployed/static/css/main.00f73abe.css.map",
+    "main.dc0f7447.js.map": "/sciogen-card-deployed/static/js/main.dc0f7447.js.map",
+    "787.05b526e2.chunk.js.map": "/sciogen-card-deployed/static/js/787.05b526e2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00f73abe.css",
+    "static/js/main.dc0f7447.js"
+  ]
+}
